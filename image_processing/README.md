@@ -7,10 +7,10 @@ Takes in a jpg image and can do
 
 Examples:  
 Original image  
-![original image](mount fitz roy.jpg)
+![original image](mount%20fitz%20roy.jpg)
 
 Histogram Equalization  
-![histogram equalization](histogram equalized.jpg)
+![histogram equalization](histogram%20equalized.jpg)
 
 Iterative Thresholding  
-![iterative thresholding](iterative thresholded image.jpg)
+![iterative thresholding](iterative%20thresholded%20image.jpg)
