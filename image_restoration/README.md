@@ -5,4 +5,5 @@ MATLAB Code for:
 2. Iterative Processing
 3. Mean Square Error (MSE)
 
-Three codes that each can take in your blurry image and makes it less blurry.
+Three codes that each can take in your image, blur it, then make it less blurry.
+In collaboration with https://github.com/jshepitka/ and https://github.com/andrewshamis/
